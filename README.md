@@ -1,2 +1,2 @@
-# petProject-online-store
+# online-store
 Online store based on NodeJS
